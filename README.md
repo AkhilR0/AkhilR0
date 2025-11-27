@@ -1,4 +1,5 @@
-## Hi
+Hi! 👋 You can find more about me at [akhil.bio](https://akhil.bio)
+
 
 <!--
 **AkhilR0/AkhilR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
