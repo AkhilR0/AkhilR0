@@ -1,4 +1,4 @@
-hi, you can find more about me at [akhil.bio](https://akhil.bio)
+hey, more about me at [akhil.bio](https://akhil.bio)
 
 
 <!--
